@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1 align="center">⚡hhalim0⚡</h1>
 <p align="center">
 <img src="https://gifimage.net/wp-content/uploads/2018/10/aesthetic-png-gif-4.gif" height="200" width="200" />
 <img src="https://gifimage.net/wp-content/uploads/2018/10/aesthetic-png-gif-4.gif" height="200" width="200" />
@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-
-
 ![Snake animation](https://github.com/hhalim0/hhalim0/blob/output/github-contribution-grid-snake.svg)
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
