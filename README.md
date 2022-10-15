@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+<img src="https://gifimage.net/wp-content/uploads/2018/10/aesthetic-png-gif-4.gif" height="200" width="200" />
+  </p align="center">
+  
+
+
+<p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
@@ -25,7 +31,6 @@ Here are some ideas to get you started:
 </p>
 
 ![Snake animation](https://github.com/hhalim0/hhalim0/blob/output/github-contribution-grid-snake.svg)
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -37,5 +42,6 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" />
-  </p align="center">
+  <img src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" />
+</p align="center">
+  
