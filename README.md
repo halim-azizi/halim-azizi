@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/hhalim0/hhalim0/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-<img src="https://github.com/AeX03/AeX03/blob/main/picture/rep.gif" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fizaron.github.io%2Fpost%2Fcompetitive-programming-and-cyberpunk%2F&psig=AOvVaw2CkykZXwaYQpSoEAfJcy2D&ust=1665946527394000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNC21cn04voCFQAAAAAdAAAAABAF" />
   </p align="center">
  
 
