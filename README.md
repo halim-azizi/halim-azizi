@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/hhalim0/hhalim0/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-<img src="https://steamuserimages-a.akamaihd.net/ugc/1599295772213775399/EBDE25C0DADFE0FF3A9051D2525AAA0EEECDBE6A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1599295772213775399/EBDE25C0DADFE0FF3A9051D2525AAA0EEECDBE6A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true](https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif)" />
   </p align="center">
  
 
