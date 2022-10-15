@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+<img src="https://gifimage.net/wp-content/uploads/2018/11/twitch-gif-alerts.gif" height="200" width="200" />
 <img src="https://gifimage.net/wp-content/uploads/2018/10/aesthetic-png-gif-4.gif" height="200" width="200" />
+<img src="https://im4.ezgif.com/tmp/ezgif-4-32e9937b59.gif" height="200" width="200" />
   </p align="center">
   
 <hr>
