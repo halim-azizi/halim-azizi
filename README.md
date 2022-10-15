@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <br><br>
 </p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hhalim0" alt="hhalim0" /></a> </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -68,11 +68,11 @@ Here are some ideas to get you started:
  </a> 
 </p>
 
-<p>
+<p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhalim0&show_icons=true&locale=en&layout=compact" alt="hhalim0" />
 </p>
 
-<p>
+<p align="center">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hhalim0&" alt="hhalim0" />
 </p>
 
