@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![Snake animation](https://github.com/hhalim0/hhalim0/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+<img src="https://github.com/AeX03/AeX03/blob/main/picture/rep.gif" />
+  </p align="center">
  
 
 <br>
