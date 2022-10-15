@@ -19,16 +19,12 @@ Here are some ideas to get you started:
 <img src="https://gifimage.net/wp-content/uploads/2018/10/aesthetic-png-gif-4.gif" height="200" width="200" />
   </p align="center">
   
+<hr>
+<br>
+<br>
+<br>
 
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <br><br>
-</p>
 
 ![Snake animation](https://github.com/hhalim0/hhalim0/blob/output/github-contribution-grid-snake.svg)
 
