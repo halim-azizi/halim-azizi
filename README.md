@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/hhalim0/hhalim0/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">CONNECT WITH ME</h3>
 <p align="center">
 <a href="https://twitter.com/hellim__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hellim__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/halim-azizi-262680206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/halim-azizi-262680206/" height="30" width="40" /></a>
