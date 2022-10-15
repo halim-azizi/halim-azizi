@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">⚡hhalim0⚡</h1>
+<h1 align="center">☔ hhalim0 ☔</h1>
 <p align="center">
 <img src="https://gifimage.net/wp-content/uploads/2018/10/aesthetic-png-gif-4.gif" height="200" width="200" />
 <img src="https://gifimage.net/wp-content/uploads/2018/10/aesthetic-png-gif-4.gif" height="200" width="200" />
