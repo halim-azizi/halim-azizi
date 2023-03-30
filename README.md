@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <h1 align="center">☔ Halim Azizi ☔</h1> -->
+
 <h1 align="center">
-<a href="https://fontmeme.com/pixel-fonts/"><img src="https://fontmeme.com/permalink/230331/b63fd0e07ade9b84e963625fadd1aa88.png" alt="pixel-fonts" border="0"></a>
-  </h1>
+  <img src="https://fontmeme.com/permalink/230331/b63fd0e07ade9b84e963625fadd1aa88.png" alt="pixel-fonts" border="0">
+</h1>
 
 <br>
 
@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" />
 </p align="center">
-  
