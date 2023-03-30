@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">☔ hhalim0 ☔</h1>
+<h1 align="center">☔ Halim Azizi ☔</h1>
 
 <br>
 
