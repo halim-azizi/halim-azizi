@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" />
 </p align="center">
+
+[![An image of @halimazizi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/halimazizi)](https://holopin.io/@halimazizi)
