@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![Snake animation](https://github.com/hhalim0/hhalim0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hhalim0/halim-azizi/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
