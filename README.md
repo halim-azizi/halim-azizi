@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Halim+Azizi;Junior+Frond-End+Developer)](https://git.io/typing-svg)
- </p>
+
 
 <!-- ![Snake animation](https://github.com/halim-azizi/halim-azizi/blob/output/github-contribution-grid-snake.svg) -->
 
