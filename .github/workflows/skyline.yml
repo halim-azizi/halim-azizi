@@ -1,0 +1,23 @@
+name: GitHub Skyline
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:       # Allows manual trigger
+  push:
+    branches: ["main", "master"]
+
+jobs:
+  github-skyline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2024            # ← Change to your year
+          plugin_skyline_frames: 60            # 60 = half loop, 120 = full loop
+          plugin_skyline_quality: 0.5          # 0.1 to 1 (higher = larger file)
