@@ -36,18 +36,17 @@ Here are some ideas to get you started:
 ## 🌇 GitHub Skyline
 
 ### My 2024 Contribution Skyline
-![GitHub Skyline](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.skyline.svg)
+![GitHub Skyline](./metrics.plugin.skyline.svg)
 
 <!-- For multi-year -->
-### 2025 | 2024 | 2023
-![2024](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.skyline.2024.svg)
-![2023](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.skyline.2023.svg)
-![2022](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.skyline.2022.svg)
+### 2025 | 2024
+![2025](./metrics.plugin.skyline.2025.svg)
+![2024](./metrics.plugin.skyline.2024.svg)
 
 
 ## 🏆 GitHub Achievements
 
-![Achievements](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.achievements.svg)
+![Achievements](./metrics.plugin.achievements.svg)
 
-<!-- For compact version -->
-![Achievements Compact](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.achievements.compact.svg)
+### Compact View
+![Achievements Compact](./metrics.plugin.achievements.compact.svg)
