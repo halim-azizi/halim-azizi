@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## 🌇 GitHub Skyline
 
 ### My 2024 Contribution Skyline
-![GitHub Skyline](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/metrics.plugin.skyline.svg)
+![GitHub Skyline](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.skyline.svg)
 
 <!-- For multi-year -->
 ### 2025 | 2024 | 2023
