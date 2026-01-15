@@ -43,3 +43,11 @@ Here are some ideas to get you started:
 ![2024](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.skyline.2024.svg)
 ![2023](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.skyline.2023.svg)
 ![2022](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.skyline.2022.svg)
+
+
+## 🏆 GitHub Achievements
+
+![Achievements](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.achievements.svg)
+
+<!-- For compact version -->
+![Achievements Compact](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.achievements.compact.svg)
