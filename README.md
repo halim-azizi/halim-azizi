@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 <!-- For multi-year -->
 ### 2025 | 2024 | 2023
-![2024](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/metrics.plugin.skyline.2024.svg)
-![2023](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/metrics.plugin.skyline.2023.svg)
-![2022](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/metrics.plugin.skyline.2022.svg)
+![2024](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.skyline.2024.svg)
+![2023](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.skyline.2023.svg)
+![2022](https://github.com/halim-azizi/halim-azizi/blob/main/metrics.plugin.skyline.2022.svg)
