@@ -33,3 +33,13 @@ Here are some ideas to get you started:
   <img src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" />
 </p align="center">
 
+## 🌇 GitHub Skyline
+
+### My 2024 Contribution Skyline
+![GitHub Skyline](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/metrics.plugin.skyline.svg)
+
+<!-- For multi-year -->
+### 2025 | 2024 | 2023
+![2024](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/metrics.plugin.skyline.2024.svg)
+![2023](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/metrics.plugin.skyline.2023.svg)
+![2022](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/metrics.plugin.skyline.2022.svg)
