@@ -7,6 +7,21 @@ on:
     branches: ["main", "master"]
 
 jobs:
+  skyline-2025:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.2025.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2025   # ← Added 2025
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+
   skyline-2024:
     runs-on: ubuntu-latest
     permissions:
@@ -34,21 +49,6 @@ jobs:
           base: ""
           plugin_skyline: yes
           plugin_skyline_year: 2023
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-
-  skyline-2022:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.skyline.2022.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_skyline: yes
-          plugin_skyline_year: 2022
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
 
