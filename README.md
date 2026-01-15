@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 ![GitHub Skyline](./metrics.plugin.skyline.svg)
 
 <!-- For multi-year -->
-### 2025 | 2024
-![2025](./metrics.plugin.skyline.2025.svg)
-![2024](./metrics.plugin.skyline.2024.svg)
+### 2023 | 2022
+![2023](./metrics.plugin.skyline.2023.svg)
+![2022](./metrics.plugin.skyline.2022.svg)
 
 
 ## 🏆 GitHub Achievements
