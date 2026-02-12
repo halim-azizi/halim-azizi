@@ -36,15 +36,18 @@ Here are some ideas to get you started:
 ## 🌇 GitHub Skyline
 
 ### My 2024 Contribution Skyline
-![GitHub Skyline](https://github.com/halim-azizi/halim-azizi/raw/main/metrics.plugin.skyline.2024.svg)
+![GitHub Skyline](https://raw.githubusercontent.com/halim-azizi/halim-azizi/main/metrics.plugin.skyline.2024.svg)
 
 ### 2025 | 2024 | 2023
-![2025](https://github.com/halim-azizi/halim-azizi/raw/main/metrics.plugin.skyline.2025.svg)
-![2024]([./](https://github.com/halim-azizi/halim-azizi/raw/main/metrics.plugin.skyline.2024.svg)
-![2023](https://github.com/halim-azizi/halim-azizi/raw/main/metrics.plugin.skyline.2023.svg)
+![2025](https://raw.githubusercontent.com/halim-azizi/halim-azizi/main/metrics.plugin.skyline.2025.svg)
+![2024](https://raw.githubusercontent.com/halim-azizi/halim-azizi/main/metrics.plugin.skyline.2024.svg)
+![2023](https://raw.githubusercontent.com/halim-azizi/halim-azizi/main/metrics.plugin.skyline.2023.svg)
+
+---
 
 ## 🏆 GitHub Achievements
-![Achievements](https://github.com/halim-azizi/halim-azizi/raw/main/metrics.plugin.achievements.svg)
+![Achievements](https://raw.githubusercontent.com/halim-azizi/halim-azizi/main/metrics.plugin.achievements.svg)
 
 ### Compact View
-![Achievements Compact](https://github.com/halim-azizi/halim-azizi/raw/main/metrics.plugin.achievements.compact.svg)
+![Achievements Compact](https://raw.githubusercontent.com/halim-azizi/halim-azizi/main/metrics.plugin.achievements.compact.svg)
+
