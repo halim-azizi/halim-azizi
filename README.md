@@ -1,105 +1,113 @@
-<!--
-██████╗ ██╗   ██╗██████╗ ██████╗ ███████╗
-██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔════╝
-██████╔╝██║   ██║██████╔╝██████╔╝█████╗
-██╔═══╝ ██║   ██║██╔══██╗██╔══██╗██╔══╝
-██║     ╚██████╔╝██████╔╝██████╔╝███████╗
-╚═╝      ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-CYBERPUNK PROFILE • STABLE • NO ACTIONS
--->
+<!-- CYBERPUNK / NEON GITHUB PROFILE README -->
 
 <h1 align="center">
-  <img src="https://fontmeme.com/permalink/230331/b63fd0e07ade9b84e963625fadd1aa88.png" alt="pixel-fonts">
+  <img src="https://fontmeme.com/permalink/230331/b63fd0e07ade9b84e963625fadd1aa88.png" />
 </h1>
 
-<br>
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" width="420">
+  <img src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" width="420" />
 </p>
 
 <br>
 
-```txt
-> initializing neural interface…
-> user: halim-azizi
-> class: frontend / creative engineer
-> environment: neon cyberpunk
-> system status: stable
-━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffe1?style=for-the-badge&logo=power&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MODE-CYBERPUNK-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-FRONTEND-00b3ff?style=for-the-badge"/>
+</p>
 
-🧠 NEURAL CORE
-🧬 Identity: Cyber-first Frontend Developer
+---
 
-⚡ Focus: Futuristic UI systems & interaction
+<table align="center">
+<tr>
+<td width="50%">
 
-🧠 Thinking: Visual logic, structure, clarity
+### 🧠 NEURAL CORE
 
-🌐 Domain: Web interfaces & creative frontend
+🧬 **Identity**  
+Cyber-first Frontend Developer  
 
-🚀 State: Building • Testing • Evolving
+⚡ **Focus**  
+Futuristic UI & Interaction  
 
-━━━━━━━━━━━━━━━━━━━━━━━
+🧠 **Thinking**  
+Visual logic · Structure · Clarity  
 
-⚙️ TECH STACK MATRIX
-CORE	MODULES
-🧩 UI	HTML • CSS
-⚡ Logic	JavaScript
-🧠 Framework	React
-🎨 Design	Figma
-🌀 Effects	Animations • Motion UI
-━━━━━━━━━━━━━━━━━━━━━━━
+🌐 **Domain**  
+Web Interfaces & Creative Frontend  
 
-📡 ACTIVE DATA STREAM
-[ LIVE FEED ]
-▸ designing neon UI systems
-▸ experimenting with cyber animations
-▸ leveling up frontend architecture
-▸ building futuristic web projects
-━━━━━━━━━━━━━━━━━━━━━━━
+🚀 **State**  
+Building · Testing · Evolving  
 
-🧪 SKILL PROTOCOLS
-Interface engineering
+</td>
+<td width="50%">
 
-Cyber / neon layouts
+### ⚙️ TECH STACK MATRIX
 
-Responsive systems
+| Layer | Tech |
+|------|------|
+| 🎨 UI | HTML · CSS |
+| ⚡ Logic | JavaScript |
+| 🧠 Framework | React |
+| 🖌 Design | Figma |
+| 🌀 Motion | Animations · Motion UI |
 
-Motion-driven UX
+</td>
+</tr>
+</table>
 
-Visual hierarchy mastery
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
+### 📡 ACTIVE DATA STREAM
 
-🛰️ MISSION OBJECTIVES
- Build strong frontend foundation
+<table>
+<tr><td>
 
- Develop cyber UI identity
+🔹 Designing **neon UI systems**  
+🔹 Experimenting with **cyber animations**  
+🔹 Leveling up **frontend architecture**  
+🔹 Building **futuristic web projects**
 
- Launch neon portfolio
+</td></tr>
+</table>
 
- Collaborate on futuristic projects
+---
 
- Push web aesthetics forward
+### 🧪 SKILL PROTOCOLS
 
-━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="https://img.shields.io/badge/INTERFACE-ENGINEERING-00ffe1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CYBER-UI-ff00ff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RESPONSIVE-SYSTEMS-00b3ff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MOTION-UX-ff8800?style=flat-square"/>
+</p>
 
-███╗   ██╗███████╗ ██████╗ ███╗   ██╗
-████╗  ██║██╔════╝██╔═══██╗████╗  ██║
-██╔██╗ ██║█████╗  ██║   ██║██╔██╗ ██║
-██║╚██╗██║██╔══╝  ██║   ██║██║╚██╗██║
-██║ ╚████║███████╗╚██████╔╝██║ ╚████║
-╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
-━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-🌐 CONNECTION PORT
-🧑‍💻 GitHub → https://github.com/halim-azizi
+### 🛰️ MISSION OBJECTIVES
 
-✉️ Open for collaborations
+- ✅ Build strong frontend foundation  
+- ✅ Develop cyber UI identity  
+- 🔄 Launch neon portfolio  
+- 🔜 Collaborate on futuristic projects  
+- 🚀 Push web aesthetics forward  
 
-🌌 Futuristic & creative projects welcome
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
+<h3 align="center">🌐 CONNECTION PORT</h3>
 
-> connection closed
-> awaiting next build…
+<p align="center">
+  <a href="https://github.com/halim-azizi">
+    <img src="https://img.shields.io/badge/GitHub-halim--azizi-0d1117?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN-FOR%20COLLABORATION-00ffe1?style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“The future interface is visual.”</i>
+</p>
