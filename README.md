@@ -37,9 +37,9 @@
 
 <table>
 <tr><td>🧩 UI</td><td>HTML · CSS</td></tr>
-<tr><td>⚡ Logic</td><td>JavaScript</td></tr>
-<tr><td>🧠 Framework</td><td>React</td></tr>
-<tr><td>🎨 Design</td><td>Figma</td></tr>
+<tr><td>⚡ Logic</td><td>TypeScript</td></tr>
+<tr><td>🧠 Framework</td><td>Angular</td></tr>
+<tr><td>🎨 Design</td><td>Canva</td></tr>
 <tr><td>🌀 Motion</td><td>Animations · Motion UI</td></tr>
 </table>
 
