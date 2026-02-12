@@ -47,8 +47,8 @@ Building · Testing · Evolving
 | Layer | Tech |
 |------|------|
 | 🎨 UI | HTML · CSS |
-| ⚡ Logic | JavaScript |
-| 🧠 Framework | React |
+| ⚡ Logic | Typescript |
+| 🧠 Framework | Angular |
 | 🖌 Design | Figma |
 | 🌀 Motion | Animations · Motion UI |
 
