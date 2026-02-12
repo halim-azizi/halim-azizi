@@ -1,53 +1,105 @@
-### 
-
 <!--
-**hhalim0/hhalim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+██████╗ ██╗   ██╗██████╗ ██████╗ ███████╗
+██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔════╝
+██████╔╝██║   ██║██████╔╝██████╔╝█████╗
+██╔═══╝ ██║   ██║██╔══██╗██╔══██╗██╔══╝
+██║     ╚██████╔╝██████╔╝██████╔╝███████╗
+╚═╝      ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
+CYBERPUNK PROFILE • STABLE • NO ACTIONS
 -->
 
 <h1 align="center">
-  <img src="https://fontmeme.com/permalink/230331/b63fd0e07ade9b84e963625fadd1aa88.png" alt="pixel-fonts" border="0">
+  <img src="https://fontmeme.com/permalink/230331/b63fd0e07ade9b84e963625fadd1aa88.png" alt="pixel-fonts">
 </h1>
 
 <br>
 
-
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Halim+Azizi;Junior+Frond-End+Developer)](https://git.io/typing-svg) -->
-
-
-<!--![Snake animation](https://github.com/halim-azizi/halim-azizi/blob/output/github-contribution-grid-snake.svg)-->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" width="420">
+</p>
 
 <br>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" />
-</p align="center">
+```txt
+> initializing neural interface…
+> user: halim-azizi
+> class: frontend / creative engineer
+> environment: neon cyberpunk
+> system status: stable
+━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🌇 GitHub Skyline
+🧠 NEURAL CORE
+🧬 Identity: Cyber-first Frontend Developer
 
-### My 2024 Contribution Skyline
-![GitHub Skyline](https://raw.githubusercontent.com/halim-azizi/halim-azizi/main/metrics.plugin.skyline.2024.svg)
+⚡ Focus: Futuristic UI systems & interaction
 
-### 2025 | 2024 | 2023
-![2025](https://raw.githubusercontent.com/halim-azizi/halim-azizi/main/metrics.plugin.skyline.2025.svg)
-![2024](https://raw.githubusercontent.com/halim-azizi/halim-azizi/main/metrics.plugin.skyline.2024.svg)
-![2023](https://raw.githubusercontent.com/halim-azizi/halim-azizi/main/metrics.plugin.skyline.2023.svg)
+🧠 Thinking: Visual logic, structure, clarity
 
----
+🌐 Domain: Web interfaces & creative frontend
 
-## 🏆 GitHub Achievements
-![Achievements](https://raw.githubusercontent.com/halim-azizi/halim-azizi/main/metrics.plugin.achievements.svg)
+🚀 State: Building • Testing • Evolving
 
-### Compact View
-![Achievements Compact](https://raw.githubusercontent.com/halim-azizi/halim-azizi/main/metrics.plugin.achievements.compact.svg)
+━━━━━━━━━━━━━━━━━━━━━━━
 
+⚙️ TECH STACK MATRIX
+CORE	MODULES
+🧩 UI	HTML • CSS
+⚡ Logic	JavaScript
+🧠 Framework	React
+🎨 Design	Figma
+🌀 Effects	Animations • Motion UI
+━━━━━━━━━━━━━━━━━━━━━━━
+
+📡 ACTIVE DATA STREAM
+[ LIVE FEED ]
+▸ designing neon UI systems
+▸ experimenting with cyber animations
+▸ leveling up frontend architecture
+▸ building futuristic web projects
+━━━━━━━━━━━━━━━━━━━━━━━
+
+🧪 SKILL PROTOCOLS
+Interface engineering
+
+Cyber / neon layouts
+
+Responsive systems
+
+Motion-driven UX
+
+Visual hierarchy mastery
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+🛰️ MISSION OBJECTIVES
+ Build strong frontend foundation
+
+ Develop cyber UI identity
+
+ Launch neon portfolio
+
+ Collaborate on futuristic projects
+
+ Push web aesthetics forward
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+███╗   ██╗███████╗ ██████╗ ███╗   ██╗
+████╗  ██║██╔════╝██╔═══██╗████╗  ██║
+██╔██╗ ██║█████╗  ██║   ██║██╔██╗ ██║
+██║╚██╗██║██╔══╝  ██║   ██║██║╚██╗██║
+██║ ╚████║███████╗╚██████╔╝██║ ╚████║
+╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 CONNECTION PORT
+🧑‍💻 GitHub → https://github.com/halim-azizi
+
+✉️ Open for collaborations
+
+🌌 Futuristic & creative projects welcome
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+> connection closed
+> awaiting next build…
