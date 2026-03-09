@@ -99,4 +99,12 @@
 <p align="center">
   <i>“Interfaces are the new battleground.”</i>
 </p>
-<p align="center"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/halimazizi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/halimazizi" /></a></p><br><br>
+<div style="display: flex; justify-content: center">
+  <p align="center">
+  <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/halimazizi"> 
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/halimazizi" />
+  </a>
+</p>
+<br><br>
+</div>
+
